@@ -1,18 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Tue Apr 23 13:54:41 2019
-
-@author: PR-LAB
-"""
-
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Mar  4 09:15:29 2019
-
-@author: aqsas
-"""
 
 from torch.utils.data.dataset import Dataset
 from torchvision import transforms

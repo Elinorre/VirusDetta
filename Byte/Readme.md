@@ -1,4 +1,4 @@
-The squence of these tutorials is given below:
+The squence of actions is given below:
 
 
 1. Byte file to image Coversion
@@ -16,6 +16,6 @@ The squence of these tutorials is given below:
 7. Feature extractor (CNN with pretrained encoder layers) - optimization
 
 
-The preprocessed data of Byte files plus the data use in these tutorial can be found on the Byte folder of following drive link:
+The preprocessed data of Byte files plus the data used here can be found on the Byte folder of following drive link:
 
 https://drive.google.com/drive/folders/1s7EC4s_-hP9q5vEhs-3vAubspcZbBADK?usp=sharing
