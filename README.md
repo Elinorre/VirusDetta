@@ -1,7 +1,5 @@
 # VirusDetta
 
-> Computer virus detection using AI.
-
 This repository contains the source code for detecting different type of malwares using Deep learning based on Feature Extraction and Wraper based on Feature Selection Technique. 
 
 Two major approaches used for virus classification:
@@ -22,4 +20,3 @@ After downloading the required dataset, following is the sequence of files in th
 2. "Min-max normalization(hybrid dataset)"
 
 3. "ANN-Results"
-
